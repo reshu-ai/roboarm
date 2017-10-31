@@ -1,4 +1,4 @@
-
+// servo motor is used in this project
 /*
   simpleMovements.ino
 
