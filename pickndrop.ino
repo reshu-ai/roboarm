@@ -62,15 +62,7 @@ void loop() {
    //delay(1000);
    Braccio.ServoMovement(20,         0, 100, 120, 140, 105,  10); //M4 drop down
    delay(1000);
-   
-   
- 
-
-   
-   
-
-   
-   //Braccio.ServoMovement(20,         0, 160, 180, 0, 105,  73); 
+    //Braccio.ServoMovement(20,         0, 160, 180, 0, 105,  73); 
   // Braccio.ServoMovement(20,         180, 100, 30, 30, 105,  73); //M3 aligns horizontally + grip move(close)
    //delay(1000);
   
@@ -82,8 +74,5 @@ void loop() {
   //delay(1000);
   //Braccio.ServoMovement(20,         180, 100, 0, 30, 105,  10); //Grip opens opp side
   //delay(1000);*/
-
-
   //delay(1000);
-
 }
